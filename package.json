@@ -22,5 +22,8 @@
     "vite": "^3.0.9",
     "vite-plugin-ssr": "^0.4.47",
     "vue": "^3.2.33"
+  },
+  "devDependencies": {
+    "react": "^18.2.0"
   }
 }
